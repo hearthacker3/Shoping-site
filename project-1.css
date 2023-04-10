@@ -17,7 +17,7 @@ body{
 
     width: 100vw;
     height: 95vh;
-    background-image: url(./images/banner-bg.png);
+    background-image: url(banner-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     /* justify-content: center; */
